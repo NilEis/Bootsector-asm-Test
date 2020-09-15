@@ -13,6 +13,7 @@ To write the char 'N'.
 ## Installation
 
 Nasm is required to create the files.
+
 To build use:
 
     nasm asm.asm -f bin -o boot_sector.img
