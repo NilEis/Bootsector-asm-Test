@@ -1,0 +1,12 @@
+
+ascii_table.jpg
+boot_sector.bin
+boot_sector.img
+build.cmd
+Compile/
+VirtualBox/
+Tutorial/
+*.CHK
+*.cmd
+System Volume Information/IndexerVolumeGuid
+*.dat
