@@ -1,0 +1,11 @@
+OS Development: Low-level Boot-Sector Programming
+https://www.youtube.com/watch?v=YvZhgRO7hL4
+
+Interrupt List
+http://www.delorie.com/djgpp/doc/rbinter/ix/
+
+Tech Help!
+https://dos4gw.org/
+
+x86 Registers
+https://www.eecg.utoronto.ca/~amza/www.mindsec.com/files/x86regs.html
