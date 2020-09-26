@@ -4,6 +4,7 @@ boot_sector.bin
 boot_sector.img
 build.cmd
 Compile/
+Release/
 VirtualBox/
 Tutorial/
 *.CHK
