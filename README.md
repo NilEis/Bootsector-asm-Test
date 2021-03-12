@@ -3,7 +3,7 @@
 ## Code Examples
 
 Use: 
-```
+```assembly
 mov AH, 0x0e
 mov al, 'N'
 int 0x10
