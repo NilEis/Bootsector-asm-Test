@@ -15,10 +15,10 @@ To write the char 'N'.
 Nasm is required to create the files.
 
 To build use:
-```
+```bash
 nasm asm.asm -f bin -o boot_sector.img
 ```
 or   
-```
+```bash
 nasm asm.asm -f bin -o boot_sector.bin
 ```
